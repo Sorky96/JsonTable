@@ -1,0 +1,17 @@
+C:\Users\Michał\source\repos\JsonTable\JsonTable\bin\Debug\net6.0\JsonTable.exe
+C:\Users\Michał\source\repos\JsonTable\JsonTable\bin\Debug\net6.0\JsonTable.deps.json
+C:\Users\Michał\source\repos\JsonTable\JsonTable\bin\Debug\net6.0\JsonTable.runtimeconfig.json
+C:\Users\Michał\source\repos\JsonTable\JsonTable\bin\Debug\net6.0\JsonTable.dll
+C:\Users\Michał\source\repos\JsonTable\JsonTable\bin\Debug\net6.0\JsonTable.pdb
+C:\Users\Michał\source\repos\JsonTable\JsonTable\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Michał\source\repos\JsonTable\JsonTable\obj\Debug\net6.0\JsonTable.csproj.AssemblyReference.cache
+C:\Users\Michał\source\repos\JsonTable\JsonTable\obj\Debug\net6.0\JsonTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\source\repos\JsonTable\JsonTable\obj\Debug\net6.0\JsonTable.AssemblyInfoInputs.cache
+C:\Users\Michał\source\repos\JsonTable\JsonTable\obj\Debug\net6.0\JsonTable.AssemblyInfo.cs
+C:\Users\Michał\source\repos\JsonTable\JsonTable\obj\Debug\net6.0\JsonTable.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\JsonTable\JsonTable\obj\Debug\net6.0\JsonTable.csproj.CopyComplete
+C:\Users\Michał\source\repos\JsonTable\JsonTable\obj\Debug\net6.0\JsonTable.dll
+C:\Users\Michał\source\repos\JsonTable\JsonTable\obj\Debug\net6.0\refint\JsonTable.dll
+C:\Users\Michał\source\repos\JsonTable\JsonTable\obj\Debug\net6.0\JsonTable.pdb
+C:\Users\Michał\source\repos\JsonTable\JsonTable\obj\Debug\net6.0\JsonTable.genruntimeconfig.cache
+C:\Users\Michał\source\repos\JsonTable\JsonTable\obj\Debug\net6.0\ref\JsonTable.dll

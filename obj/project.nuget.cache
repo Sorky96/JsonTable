@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfqd6ZySolxfE0NE690FCn1+cthMFNqtyAIEqdaE2kUKQMUC82zhKYomZAcdPlHJWA+htk5eu+COAKSMZAp9eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michał\\source\\repos\\JsonTable\\JsonTable\\JsonTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michał\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
